@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-In this project, we use k-means and Gaussian mixture algorithms to cluster pokemon images. Even with limited experience with the pokemon franchise, it is reasonable to suspect that there exist some commonalities among pokemons with the same type (color, size, etc.). We are curious to find out if such commonalities can be identified by our unsupervised learning algorithms. 
+In this project, we use k-means and Gaussian mixture algorithms to cluster pokemon images. Even with limited experience with the pokemon franchise, it is reasonable to suspect that there exist some commonalities (color, size, etc.) among pokemons with the same type. We are curious to find out if such commonalities can be identified by our unsupervised learning algorithms. 
 
 The images and pokemon types information are scrapped from the Pokémon Showdown website using Selenium. The raw images are 96 by 96 in RGBA format. 
 
